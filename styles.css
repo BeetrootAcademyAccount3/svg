@@ -1,0 +1,24 @@
+svg {
+  border: 1px solid red;
+}
+
+#path5676 {
+  fill: pink !important;
+}
+
+#path5676:hover {
+  fill: aquamarine !important;
+}
+
+#path5648 {
+  fill: red !important;
+}
+
+.circle {
+  cx: 0;
+  cy: 0;
+  r: 400px;
+  fill: none;
+  stroke: purple;
+  stroke-width: 10px;
+}
